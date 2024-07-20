@@ -1,0 +1,7 @@
+[package]
+name = "Rust_grep"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2"
